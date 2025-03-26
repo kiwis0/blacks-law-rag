@@ -1,0 +1,5 @@
+venv/
+sample_data/*.pdf
+__pycache__/
+blacks_law_index.bin
+blacks_law_chunks.pkl
