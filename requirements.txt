@@ -1,5 +1,5 @@
 anthropic==0.21.3
-transformers==4.40.0
+transformers==4.48.0
 hnswlib==0.8.0
 PyPDF2==3.0.1
 numpy==1.26.4
