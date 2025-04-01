@@ -3,7 +3,7 @@ from rag import index_document, query_rag
 import os
 
 
-PDF_PATH = os.path.join("sample_data", "content.pdf")
+PDF_PATH = os.path.join("sample_data", "sample_blacks_law_dictionary_4th.pdf")
 def main():
     print("Welcome to the Black's Law Dictionary RAG System!")
     print(f"Using dictionary at: {PDF_PATH}")
